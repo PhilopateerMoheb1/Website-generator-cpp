@@ -31,8 +31,8 @@ public:
 	void GenerateCode(string websitename) {
 		htmlCode = "<br><br><footer><div class=\"footerdiv\">";
 		htmlCode += websitename;
-		htmlCode += " all rights reserved</div></footer>";
-		CssCode = "footer{margin-left:auto; margin-right:auto; div.footerdiv{ text-align: center; left:0; bottom:0; width:100%; ";
+		htmlCode += " All rights reserved</div></footer>";
+		CssCode = "footer{margin-left:auto; margin-right:auto;} div.footerdiv{ text-align: center; left:0; bottom:0; width:100%; ";
 		if (FooterNum == 2) {
 			cout << "Footer Color: ";
 			string footerBackgroundColor;
