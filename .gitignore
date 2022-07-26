@@ -6,3 +6,14 @@ Page/Page/Page.vcxproj
 Page/Page/Page.vcxproj.filters
 Page/Page/Page.vcxproj.user
 Page/Page/index.html
+../.vs/
+../Website.sln
+Footer.h
+Header.h
+Page.h
+Website.vcxproj
+Website.vcxproj.filters
+Website.vcxproj.user
+phalphilo/
+philo/
+
